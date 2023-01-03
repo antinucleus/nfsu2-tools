@@ -1,7 +1,7 @@
 # Nfsu2 Tool
 
 - You can watch this video
-[Youtube](https://www.youtube.com/channel/UCB_U3Rxe-z2fHP099d_9RSA)
+[Youtube](https://www.youtube.com/watch?v=BDGdjGNQwqM&t=3s&ab_channel=Antinucleus)
 
 ## Notes
 - This program can be run both online and offline mode of NFSU2
