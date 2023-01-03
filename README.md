@@ -1,7 +1,9 @@
 # Nfsu2 Tool
 
-## Notes
+- You can watch this video
+[Youtube](https://www.youtube.com/channel/UCB_U3Rxe-z2fHP099d_9RSA)
 
+## Notes
 - This program can be run both online and offline mode of NFSU2
 
 ## Setting up
